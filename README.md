@@ -1,3 +1,3 @@
 # python-sz
 starting
-这个项目是关于，请联系gsl
+Any questions,please try to contact author
