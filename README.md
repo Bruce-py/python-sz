@@ -1,3 +1,2 @@
-# python-sz
-starting
+# python
 Any questions,please try to contact author
